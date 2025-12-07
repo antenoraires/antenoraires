@@ -31,5 +31,5 @@ antenoraires37@gmail.com
 [![spark](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)]() [![je](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]() 
 [![air](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)]()
 
-**Engenheiro de dados com experiência em projetos ponta a ponta, com foco na qualidade dos dados e eficiência das pipelines**
+**Engenheiro de dados com experiência em levantamento de requisitos e implementação de projetos de ponta a ponta, com foco na qualidade dos dados e eficiência das pipelines**
 
